@@ -23,7 +23,7 @@ un sistema de reserva de lockers con persistencia en `localStorage`.
 - **Config** — Exportar/importar backup JSON y reset total
 
 ## Estructura del proyecto
-
+```
 src/
 ├── types/
 │   ├── locker.ts         # Tipos: Locker, SedeKey, SedeConfig
@@ -39,7 +39,7 @@ src/
 │   └── ConfigView.tsx
 ├── App.tsx               # Componente raíz + lógica global
 └── main.tsx
-
+```
 
 ## Cómo correr el proyecto
 ```bash
