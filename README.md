@@ -1,5 +1,3 @@
-El README está perfecto tal como está. Solo copia esto y reemplaza tu `README.md`:
-
 ```markdown
 # Sistema de Reserva de Lockers 🚀
 
@@ -66,4 +64,3 @@ git commit -m "docs: README completo con estructura y funcionalidades"
 git push
 ```
 
-¡Listo! ¿Ahora necesitas ayuda con el PDF del punto 1? [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/147725353/42806b10-d6ea-4ddd-9006-3d40e5dc8491/El-contraste-entre-JSX-y-TSX.pdf)
