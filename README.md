@@ -1,4 +1,3 @@
-```markdown
 # Sistema de Reserva de Lockers 🚀
 
 **Actividad 5 — Electiva Full Stack**
@@ -62,5 +61,5 @@ Luego en la terminal:
 git add README.md
 git commit -m "docs: README completo con estructura y funcionalidades"
 git push
-```
+
 
